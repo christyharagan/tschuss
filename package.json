@@ -1,0 +1,29 @@
+{
+  "name": "tschuss",
+  "version": "0.1.1",
+  "description": "A dependency injection library for ES7 and TypeScript",
+  "main": "dist/lib/index.js",
+  "repository": "christyharagan/tschuss",
+  "author": {
+    "name": "Christy Haragan",
+    "email": "christy.haragan.github@gmail.com",
+    "url": "https://github.com/christyharagan"
+  },
+  "typescript": {
+    "definition": "tschuss.d.ts"
+  },
+  "dependencies": {
+    "typescript": "^1.5.0-beta",
+    "typescript-schema": "^0.3.0"
+  },
+  "keywords": [
+    "di",
+    "ioc",
+    "dependency",
+    "injection",
+    "typescript",
+    "decorators",
+    "es7"
+  ],
+  "license": "MIT"
+}
